@@ -1,5 +1,9 @@
 hello world
 
+<<<<<<< HEAD
 git remote add origin "+ link" 
 git push
 git push --set-upstream origin master"
+=======
+nova linha 
+>>>>>>> ead079e5633571a62e9c7f3ba44f7332efa5077d
